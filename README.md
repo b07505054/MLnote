@@ -11,7 +11,8 @@ passkey = 'wow’
 str1 = 'I am okay’ 
 cipher = encrypt(passkey, str1) 
 print(cipher)
-```
+```  
+What I achive : all spec above
 
 ## HW2 (Go-Back-N RDT)  
 sender: sending data with go-back-n  
@@ -33,4 +34,5 @@ client.settimeout(5)
   except Exception as e:
     print('timeout')
     # the codes to handle the timeout event
-```
+```  
+What I achive : all spec above
