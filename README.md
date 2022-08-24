@@ -1,5 +1,5 @@
 # fundamental intenet with python  
-## HW1   
+## send-encrypted-message   
 client:encrypting and encoding before tranlating data  
 server:decoding and verifying the data
 ![image](https://user-images.githubusercontent.com/68935450/167303495-56184652-0260-4dfd-a985-f4336b043db8.png)
@@ -17,7 +17,7 @@ print(cipher)
 What I achive : all spec above  
 
 
-## HW2 (Go-Back-N RDT)  
+## Go-Back-N RDT  
 sender: sending data with go-back-n  
 receiver: if receiving data correctly , sending ack in return , while pack 2,9 being setted loss.
 ![image](https://user-images.githubusercontent.com/68935450/167307416-121d8fc4-bc9a-4454-a8c6-eaf4ce808d1d.png)
