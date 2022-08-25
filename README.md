@@ -46,4 +46,3 @@ What I achive : all spec above
 ## Dijkstra Algorithm 
 ![image](https://user-images.githubusercontent.com/68935450/186636190-0f7769b3-9f84-4ef6-8b4d-d104500ace25.png)
 ![image](https://user-images.githubusercontent.com/68935450/186636643-e180c840-cae1-423b-aa33-451b23bcf797.png) 
-input node is topo.py
